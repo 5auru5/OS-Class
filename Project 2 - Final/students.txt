@@ -1,0 +1,7 @@
+Jeremy 3.0
+Kyle 2.0
+Steve 4.0
+Adam 3.4
+Kevin 3.0
+Balter 3.6
+James 2.1
